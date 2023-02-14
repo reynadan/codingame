@@ -247,7 +247,6 @@ while (TRUE) {
 		}
 	}
 
-	$tempLastCheckpoint = new Checkpoint($nextCheckpointX, $nextCheckpointY);
 	echo($nextCheckpointX . " " . $nextCheckpointY . " " . $thrust . "\n");
 }
 ?>
