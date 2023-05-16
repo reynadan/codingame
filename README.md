@@ -7,7 +7,7 @@
 
 <h3 align="center">My codingame solutions</h3>
   <p align="center">
-    This is not the last update of my code so you can rank up with your my code and your own strategy :)
+    None of this is the last update of my code, so you can rank up with your code and your own strategy :)
 </div>
 
 
